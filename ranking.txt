@@ -1,0 +1,20 @@
+Tottenham; 9
+Liverpool; 7
+West Ham; 7
+Chelsea; 7
+Manchester United; 7
+Everton; 7
+Brighton; 6
+Manchester City; 6
+Leicester; 6
+Brentford; 5
+Aston Villa; 4
+Watford; 3
+Leeds; 2
+Crystal Palace; 2
+Southampton; 2
+Newcastle; 1
+Burnley; 1
+Wolverhampton; 0
+Norwich; 0
+Arsenal; 0
